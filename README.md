@@ -53,6 +53,6 @@ b. Identify key touchpoints or stages where customers are most likely to churn.
 - Set up a mechanism to continuously monitor churn rates and the effectiveness of implemented strategies.
 - Generate periodic reports and visualizations to track progress and make data-driven decisions.
 
-**Outcome:**
-Through this Tableau-based analysis, the telecommunications company gains a deeper understanding of customer churn patterns and the underlying factors driving churn. The actionable insights derived from the analysis help the company implement targeted strategies to reduce churn and improve customer retention, ultimately leading to increased revenue and market share.
+**Outcome:
+Through this Tableau-based analysis, the telecommunications company gains a deeper understanding of customer churn patterns and the underlying factors driving churn. The actionable insights derived from the analysis help the company implement targeted strategies to reduce churn and improve customer retention, ultimately leading to increased revenue and market share.**
 
